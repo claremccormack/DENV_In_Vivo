@@ -1,0 +1,4 @@
+eta	1	Normal
+eta2	1	Normal
+scaling_inoculum	1	Normal
+beta	1	Normal

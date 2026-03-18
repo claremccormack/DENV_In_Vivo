@@ -1,0 +1,12 @@
+eta	1	Normal
+eta2	1	Normal
+psi	1	Normal
+psi2	1	Normal
+scaling_inoculum	1	Normal
+scaling_IgM	1	Normal
+beta	1	Normal
+kappa_m	1	Normal
+init_m	1	Normal
+init_g	1	Normal
+c	1	Normal
+
